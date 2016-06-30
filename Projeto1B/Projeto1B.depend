@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1461116848 source:/home/mafuds/Documentos/UNESP/5º Semestre/AN/Projeto1B/main.c
-	<stdio.h>
-	<stdlib.h>
-	<math.h>
-	<time.h>
-
